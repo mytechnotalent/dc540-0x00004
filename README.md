@@ -59,7 +59,7 @@ Upon arriving in Sector 42, they noticed another Raspberry Pi Pico microcontroll
 <br>
 
 ## MISSION
-You have been selected by the DC540 ANGELS OF DEATH to be the Reverse Engineer on this mission. Your task is to review the attached `capture.png`. `Адрес.png` and find an exploit to turn off the alarm and lights without disabling the oxygen and convert the `ПовелительЧеловеческойСистемы.uf2` to a .bin binary to begin reverse engineering. Your mission is to flash a Raspberry Pi Pico with the `ПовелительЧеловеческойСистемы.uf2` firmware and see how it operates. Convert the file to a .bin file to bring into Ghidra and properly reverse engineer and then manually hex-edit the `ПовелительЧеловеческойСистемы.uf2` with your changes and re-flash the Raspberry Pi Pico to get the entrance flag and report back to, "The Architect" with your results by sending a private Discord DM to Kevin Thomas.
+You have been selected by the DC540 ANGELS OF DEATH to be the Reverse Engineer on this mission. Your task is to review the attached `capture.png`. `Адрес.png` and find an exploit to turn off the alarm and lights without disabling the oxygen and convert the `ПовелительЧеловеческойСистемы.uf2` to a .bin binary to begin reverse engineering. Your mission is to flash a Raspberry Pi Pico with the `ПовелительЧеловеческойСистемы.uf2` firmware and see how it operates. Convert the file to a .bin file to bring into Ghidra and properly reverse engineer it and report the flag back to, "The Architect" with your results by sending a private Discord DM to Kevin Thomas.
 
 ## HINT
 "You will know you have the flag as it will end with, `k1llz`"
