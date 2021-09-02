@@ -38,15 +38,21 @@ DC540 hacking challenge 0x00004 [C CTF].
 <br>
 
 ## BRIEF
-A month has transpired and the team was unsuccessful with cracking the MicroPython firmware.  To date this is the only way into the Dark Eyes 1337 Gate to gain access to their secret facility located in a classified location in Siberia.
+Bets Fielding received a communication from the Five Eyes facility in Alice Springs, Australia that there was a Reverse Engineer that had helped them in the past would be open to assisting the DC540 Team in getting into the Dark Eyes facility by hacking the 1337 Gate firmware.
 
-Pacing back and forth, Bets Fielding and the team continued to do digital forensics on Natalia's usb drive which she used in Dr. Rinn's private study to get the 1337 Gate firmware.
+Bets delighted with the news advised Field Marshall Baab Fortune and he ordered a secure flight to which Bets Fielding and Zatoich Shannon, who is the DC540 Offensive Pentester, to meet this Reverse Engineer in person and get transport to the Dark Eyes facility in a classified location in Siberia, Russia.
 
-All of the sudden, Bets stumbled upon a hidden partition which contained two files named `1337бэкдор.uf2` and `capture.png` which she was able to retrieve.  
+Bets and Zatoich arrived at the Alice Springs facility to meet the Reverse Engineer and in he walked wearing a blood-red robe and cape.  Bets and Zatoich introduced themselves and he said, I am "The Harvinator".  I am from a hidden island kingdom that no nation knows about.  We have the most superior Cyber capabilities and evade even the most sophisticated Geosatellite capabilities as we exist on no map!
 
-Bets phoned Natalia and asked if she knew about this hidden partition and she said she did not.  Natalia said that she simply grabbed the first usb she could find in Dr. Rinn's Study which was taped to the bottom of her desk drawer.
+Bets stated that they needed to get transport to the Dark Eyes facility immediately.  Bets, Zatoich and Harvinator boarded the transport and arrived at the Dark Eyes 1337 gate.  
 
-Knowing this is a raw .uf2 file, Bets knew she had to get it into a bin format to be able to reverse it properly in Ghidra.  Bets wondered if the firmware would also be in MicroPython like the previous one or perhaps a pure C binary.
+Zatoich noticed the security cameras and immediately begin searching for a way to patch into them and hijack the footage to play an infinite loop to the Dark Eyes security team monitoring the cameras.  After three hours, Zatoich was able to compromise the cameras and the team began Reverse Engineering the `1337бэкдор.uf2` firmware.
+
+After 52 hours, the Harvinator was able to crack it!  Immediately the gate opened and the team proceeded to Sector 42 to begin their recon.
+
+One of the guards did notice them and Bets was able to snap his neck within 1.35 seconds so that he made no sound or alert to the facility.  
+
+Upon arriving in Sector 42, they noticed another Raspberry Pi Pico microcontroller 
 
 <br>
 
