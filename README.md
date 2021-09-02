@@ -33,7 +33,7 @@ DC540 hacking challenge 0x00004 [C CTF].
 <br>
 
 ## Schematic
-![image](https://github.com/mytechnotalent/dc540-0x00003/blob/main/schematic.png?raw=true)
+![image](https://github.com/mytechnotalent/dc540-0x00004/blob/main/schematic_0x00004.png?raw=true)
 
 <br>
 
