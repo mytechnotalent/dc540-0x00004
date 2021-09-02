@@ -1,7 +1,7 @@
-![image](https://github.com/mytechnotalent/dc540-0x00003/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
+![image](https://github.com/mytechnotalent/dc540-0x00004/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
 
-# dc540-0x00003
-DC540 hacking challenge 0x00003 [C CTF].
+# dc540-0x00004
+DC540 hacking challenge 0x00004 [C CTF].
 
 <br>
 
@@ -9,7 +9,7 @@ DC540 hacking challenge 0x00003 [C CTF].
 
 <br>
 
-## Prior Challenge [HERE](https://github.com/mytechnotalent/dc540-0x00002)
+## Prior Challenge [HERE](https://github.com/mytechnotalent/dc540-0x00003)
 
 <br>
 
@@ -26,6 +26,7 @@ DC540 hacking challenge 0x00003 [C CTF].
 #### [Set of 2 x 20-pin Headers for Raspberry Pi Pico](https://www.canakit.com/set-of-2-20-pin-headers-for-raspberry-pi-pico.html)
 #### [830 Hole Breadboard](https://www.canakit.com/solderless-breadboard-830-hole.html)
 #### [Jumper Wires Male to Male - Pack of 30](https://www.canakit.com/jumper-wires-male-to-male-6.html)
+#### [100 Pieces Clear LED Light Emitting Diodes Bulb LED Lamp, 5 mm (Multicolor)](https://www.amazon.com/eBoot-Pieces-Emitting-Diodes-Assorted/dp/B06XPV4CSH)
 #### [20 Pcs 6 mm 2 Pin Momentary Tactile Tact Push Button Switch Through Hole Breadboard](https://www.amazon.com/Momentary-Tactile-Through-Breadboard-Friendly/dp/B07WF76VHT)
 #### [Micro USB Cable High Speed Data and Charging, Nylon Braided Charger Cord, 3-Pack, 3 Feet](https://www.amazon.com/Rankie-Micro-Charging-Braided-3-Pack/dp/B01JPDTZXK)
 
