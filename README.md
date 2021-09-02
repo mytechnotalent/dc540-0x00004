@@ -48,9 +48,9 @@ Bets stated that they needed to get transport to the Dark Eyes facility immediat
 
 Z noticed the security cameras and immediately begin searching for a way to patch into them and hijack the footage to play an infinite loop to the Dark Eyes security team monitoring the cameras.  After three hours, Z was able to compromise the cameras and the team began Reverse Engineering the `1337бэкдор.uf2` firmware.
 
-After 52 hours, the Harvinator was able to crack it!  Immediately the gate opened and the team proceeded to Sector 42 to begin their recon.
+After 77 straight hours, the Harvinator was able to crack it!  Immediately the gate opened and the team proceeded to Sector 42 to begin their recon.
 
-One of the guards did notice them and Bets was able to snap his neck within 1.35 seconds so that he made no sound or alert to the facility.  
+One of the guards did notice them and Bets was able to snap his neck within 1.337 seconds so that he made no sound or alert to the facility.  
 
 Upon arriving in Sector 42, they noticed another Raspberry Pi Pico microcontroller to which was connected to a monitor which read "Human System Overlord".  After inspection the team figured out it was an industrial control system which controlled an alarm, lights and oxygen levels in Sector 42.  
 
@@ -60,7 +60,7 @@ Upon arriving in Sector 42, they noticed another Raspberry Pi Pico microcontroll
 You have been selected by the DC540 ANGELS OF DEATH to be the Reverse Engineer on this mission. Your task is to review the attached `capture.png`. `Адрес.png` and find an exploit to turn off the alarm and lights without disabling the oxyten and convert the `ПовелительЧеловеческойСистемы.uf2` to a .bin binary to begin reverse engineering. Your mission is to flash a Raspberry Pi Pico with the `ПовелительЧеловеческойСистемы.uf2` firmware and see how it operates. Convert the file to a .bin file to bring into Ghidra and properly reverse engineer and then manually hex-edit the `ПовелительЧеловеческойСистемы.uf2` with your changes and re-flash the Raspberry Pi Pico to get the entrance flag and report back to, "The Architect" with your results by sending a private Discord DM to Kevin Thomas.
 
 ## HINT
-"You will know you have the flag as it will end with, `for processing...`"
+"You will know you have the flag as it will end with, `k1llz`"
 
 <br>
 
