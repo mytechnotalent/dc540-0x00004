@@ -1,2 +1,1 @@
-*.c linguist-detectable=true
-*.makefile linguist-detectable=false
+*.uf2 linguist-language=C
