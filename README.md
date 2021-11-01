@@ -42,7 +42,7 @@ Bets Fielding received a communication from the Five Eyes facility in Alice Spri
 
 Bets delighted with the news advised Field Marshall Baab Fortune and he ordered a secure flight to which Bets Fielding and the mysterious entity known only as Z, who is the DC540 Shellmancer, to meet this Reverse Engineer in person and get transport to the Dark Eyes facility in a classified location in Siberia, Russia.
 
-Dr. Emery Riddle, "The Cipher", was able to intercept an official Dark Eyes document, `Адрес.png`, to which he passed along to the team.
+Dr. Emery Riddle, "The Cipher", was able to intercept signals from DarkEyes to which he passed along to the team.
 
 Bets and Z arrived at the Alice Springs facility to meet the Reverse Engineer and in he walked wearing a blood-red robe and cape.  Bets and Z introduced themselves and he said, I am Arvinator.  I am from a hidden island kingdom that no nation knows about.  We have the most superior Cyber capabilities and evade even the most sophisticated SIGNIT satellite capabilities as we exist on no map!
 
