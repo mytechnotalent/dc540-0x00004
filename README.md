@@ -13,6 +13,10 @@ DC540 hacking challenge 0x00004 [C CTF].
 
 <br>
 
+## Next Challenge [HERE](https://github.com/mytechnotalent/dc540-0x00005a)
+
+<br>
+
 ## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
 <br>
